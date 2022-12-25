@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { Request, Response, NextFunction } from 'express';
 import * as celebrate from 'celebrate';
 import { BadRequestError } from '../types/errors';
